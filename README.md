@@ -2,7 +2,7 @@
 
 ## ⚔️ **Desafio - Explore sem limites**
 
-### Desafio proposto para reforçar a prática das técnicas e conceitos abordados nos níveis iniciais do programa de formação Explorer.
+#### Desafio proposto para reforçar a prática das técnicas e conceitos abordados nos níveis iniciais do programa de formação Explorer.
 
 </br>
 
